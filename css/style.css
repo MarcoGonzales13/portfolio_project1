@@ -62,7 +62,11 @@ img{
     margin-right: auto;
     width: 300px;
 }
-
+ a{
+    text-transform: capitalize;
+    font-size: 24px;
+     font-family: "Audiowide", sans-serif;
+     color: #f1b2ac;}
 
 
 footer{

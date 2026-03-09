@@ -19,9 +19,15 @@ h2 {
  }
  a{
     text-transform: capitalize;
-    font-size: 32px;
+    font-size: 24px;
      font-family: "Audiowide", sans-serif;
      color: #f1b2ac;
      
  }
-
+ nav{
+    color: #f1b2ac;
+     background-color: #7d78a3;
+     text-align: right;
+     padding: 10px;
+      font-family: "Audiowide", sans-serif;
+ }
