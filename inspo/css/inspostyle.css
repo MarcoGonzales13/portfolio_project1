@@ -1,0 +1,27 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10 20px 10px 20px;
+}
+h2 {
+    text-align: center;
+    color: black;
+    font-size: 32px;
+     font-family: "Audiowide", sans-serif;
+}
+ h3 {
+    font-style: italic;
+    text-align: center;
+    color: #f1b2ac;
+    font-size: 20px;
+     font-family: "Audiowide", sans-serif;
+ }
+ a{
+    text-transform: capitalize;
+    font-size: 32px;
+     font-family: "Audiowide", sans-serif;
+     color: #f1b2ac;
+     
+ }
+
