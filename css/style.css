@@ -108,3 +108,59 @@ footer {
         transform: translateX(0);
     }
 }
+@media screen and (max-width: 768px) {
+    header {
+        flex-direction: column;
+        text-align: left;
+    }
+
+    h1 {
+        font-size: 23px;
+    }
+
+    .animated-title {
+        animation: none;
+    }
+
+    nav {
+        position: static;
+        height: 100%;
+        flex-direction: column;
+        text-align: left;
+        gap: 15px;
+    }
+
+    nav a {
+        font-size: 10px;
+    }
+
+    main {
+        margin-left: 0;
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    section {
+        text-align: left;
+        display: contents;
+        width: 50%;
+        height: auto;
+
+    }
+
+    .profile-img {
+        width: 1%;
+        border-radius: 100%;
+        max-width: 15px;
+
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    footer {
+        position: static;
+    }
+}
